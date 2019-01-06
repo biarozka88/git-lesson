@@ -12,11 +12,4 @@ const Nav = () => {
 
 export default Nav;
 
-// git clone path-to-repository
-// git status
 
-
-// git config --global user.email "j.biarozka@gmail.com"
-// git config --global user.name "biarozka88"
-
-// git commit -am "added new file Nav.jsx"
